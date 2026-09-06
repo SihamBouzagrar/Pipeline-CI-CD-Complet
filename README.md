@@ -952,6 +952,3 @@ Projet réalisé dans le cadre d'un stage chez **Smartovate Ltd**.
 
 ---
 
-# 📄 Licence
-
-Projet réalisé par Siham Bouzagrar dans le cadre de son stage chez Smartovate Ltd.
